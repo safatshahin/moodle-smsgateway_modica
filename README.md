@@ -1,3 +1,4 @@
+# This plugin is integrated to moodle core, please use the plugin available there.
 # Modica SMS Gateway
 Modica is a paid SMS gateway solution. Use this plugin to integrate with Modica messaging service.
 This feature was initially implemented in MFA plugin from Catalyst NZ.
